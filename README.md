@@ -20,10 +20,12 @@ Now, I'm **upskilling to become an Analytics Engineer**, focusing on:
 ## 🎓 Education
 
 [![MS: SUNY Binghamton](https://img.shields.io/badge/M.S.-Industrial%20Engineering-blue)](https://www.binghamton.edu/)
+ 
   🏛️ SUNY Binghamton, USA  
   📅 2016 – 2017
   
 [![BE: GTU](https://img.shields.io/badge/B.E.-Mechanical%20Engineering-brightgreen)](https://www.gtu.ac.in/)
+  
   🏫 Gujarat Technological University (GTU), India  
   📅 2011 – 2015
 ---
