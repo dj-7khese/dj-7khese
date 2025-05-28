@@ -19,8 +19,9 @@ Now, I'm **upskilling to become an Analytics Engineer**, focusing on:
 
 ## 🎓 Education
 
-- 🎓 **MS in Industrial Engineering** – State University New York at Binghamton, USA  
-- 🎓 **BE in Mechanical Engineering** – Gujarat Technological University, India  
+[![MS: SUNY Binghamton](https://img.shields.io/badge/M.S.-Industrial%20Engineering-blue)](https://www.binghamton.edu/)
+  
+[![BE: GTU](https://img.shields.io/badge/B.E.-Mechanical%20Engineering-brightgreen)](https://www.gtu.ac.in/)
 
 ---
 
