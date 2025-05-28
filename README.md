@@ -109,8 +109,7 @@ Now, I'm **upskilling to become an Analytics Engineer**, focusing on:
 ---
 
 ## 📬 Connect With Me
-
-📧 [khese.dhaval7@gmail.com](mailto:khese.dhaval7@gmail.com)  
+ 
 🔗 [LinkedIn](https://www.linkedin.com/in/dhaval-khese/)  
 🗂️ [Notion Project Planner](https://www.notion.so/Tableau-Task-PHG-1fae4352bc7e801f879af1a86d7e7e47)
 
