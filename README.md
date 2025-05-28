@@ -109,7 +109,7 @@ Now, I'm **upskilling to become an Analytics Engineer**, focusing on:
 
 ---
 
-> **Goal:** By the end of 2025, become a production-ready analytics engineer building trusted, scalable data models and pipelines for analytics teams.
+> **Goal:** By the end of 2025, become a production-ready Analytics Angineer building trusted, scalable data models and pipelines for analytics teams.
 ---
 
 
